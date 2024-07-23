@@ -1,0 +1,43 @@
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-form .form-group {
+    margin-bottom: 15px;
+}
+
+.login-form .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.login-button,
+.signup-button {
+    width: 100%;
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.signup-button {
+    background-color: #28a745;
+}
+
+.signup-section {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.error-message {
+    color: red;
+    text-align: center;
+}

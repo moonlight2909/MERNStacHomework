@@ -1,0 +1,36 @@
+.dashboard-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.dashboard-title,
+.opportunities-title {
+    text-align: center;
+}
+
+.logout-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.opportunities-container {
+    margin-top: 20px;
+}
+
+.opportunity {
+    background-color: #f0f0f0;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.profile-name {
+    color: #333;
+}
